@@ -1,4 +1,4 @@
-# Solar Panel Prediction
+# Nano Grid Web Application
 A comprehensive tool for predicting the energy output of a concept Nano Grid which leverages solar panels farm, wind turbine energy production and gauges surrounding household and EV charging station energy consumption based on various environmental and operational factors together with forecasting. This project leverages machine learning models to provide accurate predictions to aid in energy management and planning.
 
 ## Table of Contents
@@ -54,7 +54,7 @@ Follow these steps to set up the project locally.
 
 ## Setup
 1. Download the source code zip file:
-        ```bash
+    ```bash
     https://aficorplk-my.sharepoint.com/:u:/g/personal/hasaranga_aficorp_lk/Ef44shVJEaBAhE_DkN4AklQBZVu5cb8zs5IGhOCQyf3V4Q?e=p0aXnL
     ```
 2. Create a virtual environment and activate it:
