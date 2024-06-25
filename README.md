@@ -53,22 +53,26 @@ Follow these steps to set up the project locally.
 - Python 3.10+
 
 ## Setup
-1. Create a virtual environment and activate it:
+1. Download the source code zip file:
+        ```bash
+    https://aficorplk-my.sharepoint.com/:u:/g/personal/hasaranga_aficorp_lk/Ef44shVJEaBAhE_DkN4AklQBZVu5cb8zs5IGhOCQyf3V4Q?e=p0aXnL
+    ```
+2. Create a virtual environment and activate it:
     ```bash
     python -m venv venv
     source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     ```
-2. Install the required dependencies:
+3. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
  
-3. Run the application:
+4. Run the application:
     ```bash
     python app.py
     ```
  
-4. Access the application by opening `http://localhost:5000` in your web browser
+5. Access the application by opening `http://localhost:5000` in your web browser
  
 ## Run-Application
  
