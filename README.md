@@ -38,7 +38,7 @@ This scenario aims to predict the energy consumption of Electric Vehicals using 
 - **Model Customization**: Supports various machine learning algorithms (FB Prophet).
 - **Performance Metrics**: Provides detailed performance analysis and visualization.
 
-### Objective - 5 - Chatbot Assistant
+### Objective - 5 - Chatbot aka GreenBot Assistant
 The chatbot that is build based on RAG architecture (part of advanced Machine Learning model) aims to provide solutions to the technical team regarding their prompt of issues with either the wind turbine or solar panels which they are dealing with. The provided prompt searches for the past resolutions that were made and updated for the same issue or deals with new solution findings to the error and updates accordingly.
 
 #### Features
