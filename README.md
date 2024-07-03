@@ -73,12 +73,12 @@ Follow these steps to set up the project locally.
     python app.py
     ```
  
-5. Access the application by opening `http://127.0.0.1:5000` in your web browser
+5. Access the application by opening ```bash http://127.0.0.1:5000```in your web browser
  
 ## Run-Application
  
 - Type the input as required for Wind Turbine Power Generation and Household Power Consumption Prediction
-- Run the prediction for Solar Farm Power Generation Prediction
+- Run the prediction for Solar Farm Power Generation
 - Predict Solar Energy Production, Wind Energy Production and Household Electricity Consumption Prediction as required
 
 ## Organization
