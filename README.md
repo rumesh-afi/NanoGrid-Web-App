@@ -10,6 +10,7 @@ A comprehensive tool for predicting the energy output of a concept Nano Grid whi
 - [Organization](#organization)
 
 ## Project Overview
+### Project Deployed Link - http://35.224.23.164:5000/
 ### Objective - 1 - Wind Turbine Energy Production Prediction
 ### Objective - 2 - Solar Farm Energy Production Prediction
 This part aims to predict the energy output of a Wind Turbine & Solar Panel Farm using historical data, panel specifications, and other relevant parameters. It provides insights that help optimize the performance and maintenance of the specific Wind Turbine & Solar Panel Farm energy systems.
