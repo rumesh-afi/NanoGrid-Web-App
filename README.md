@@ -10,7 +10,7 @@ A comprehensive tool for predicting the energy output of a concept Nano Grid whi
 - [Organization](#organization)
 
 ## Project Overview
-### Project Deployed Link - http://35.224.23.164:5000/
+#### Project Deployed Link - http://35.224.23.164:5000/
 ### Objective - 1 - Wind Turbine Energy Production Prediction
 ### Objective - 2 - Solar Farm Energy Production Prediction
 This part aims to predict the energy output of a Wind Turbine & Solar Panel Farm using historical data, panel specifications, and other relevant parameters. It provides insights that help optimize the performance and maintenance of the specific Wind Turbine & Solar Panel Farm energy systems.
@@ -38,7 +38,7 @@ This scenario aims to predict the energy consumption of Electric Vehicals using 
 - **Model Customization**: Supports various machine learning algorithms (FB Prophet).
 - **Performance Metrics**: Provides detailed performance analysis and visualization.
 
-### Objective - 5 - Chatbot aka GreenBot Assistant
+### Objective - 5 - Chatbot Assistant aka GreenBot
 The chatbot that is build based on RAG architecture (part of advanced Machine Learning model) aims to provide solutions to the technical team regarding their prompt of issues with either the wind turbine or solar panels which they are dealing with. The provided prompt searches for the past resolutions that were made and updated for the same issue or deals with new solution findings to the error and updates accordingly.
 
 #### Features
@@ -82,5 +82,5 @@ Follow these steps to set up the project locally.
 - Run the prediction for Solar Farm Power Generation
 - Predict Solar Energy Production, Wind Energy Production and Household Electricity Consumption Prediction as required
 
-## Organization
+### Organization
 - DLZ Ventures (Virginia, USA)
