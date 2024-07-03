@@ -1,4 +1,4 @@
-# Nano Grid Web Application
+# Zasti Energy Nano Grid Web Application
 A comprehensive tool for predicting the energy output of a concept Nano Grid which leverages solar panels farm, wind turbine energy production and gauges surrounding household and EV charging station energy consumption based on various environmental and operational factors together with forecasting. This project leverages machine learning models to provide accurate predictions to aid in energy management and planning.
 
 ## Table of Contents
@@ -7,6 +7,7 @@ A comprehensive tool for predicting the energy output of a concept Nano Grid whi
 - [Prerequisites](#prerequisites)
 - [Setup](#setup)
 - [Run-Application](#run-application)
+- [Organization](#organization)
 
 ## Project Overview
 ### Objective - 1 - Wind Turbine Energy Production Prediction
@@ -55,7 +56,7 @@ Follow these steps to set up the project locally.
 ## Setup
 1. Download the source code zip file:
     ```bash
-    https://aficorplk-my.sharepoint.com/:u:/g/personal/hasaranga_aficorp_lk/Ef44shVJEaBAhE_DkN4AklQBZVu5cb8zs5IGhOCQyf3V4Q?e=p0aXnL
+    https://drive.google.com/file/d/1zi2aenGxYoEQMd4_uA1Me94V_Cue1-GG/view
     ```
 2. Create a virtual environment and activate it:
     ```bash
@@ -72,10 +73,13 @@ Follow these steps to set up the project locally.
     python app.py
     ```
  
-5. Access the application by opening `http://localhost:5000` in your web browser
+5. Access the application by opening `http://127.0.0.1:5000` in your web browser
  
 ## Run-Application
  
-- Type the input as required
-- Run the prediction 
+- Type the input as required for Wind Turbine Power Generation and Household Power Consumption Prediction
+- Run the prediction for Solar Farm Power Generation Prediction
 - Predict Solar Energy Production, Wind Energy Production and Household Electricity Consumption Prediction as required
+
+## Organization
+- DLZ Ventures (Virginia, USA)
